@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sky0912
+- 👋 Hi, I’m @Sky
 - 👀 I’m interested in data analysis and quantitative analysis
 - 🌱 I’m currently learning Python, SQL, R, Stata
 - 💞️ I’m looking to collaborate on research projects
